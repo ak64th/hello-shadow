@@ -1,8 +1,8 @@
 # hello-shadow
 
-Play with shadow dom and custom elements.
+Play with shadow DOM and custom elements.
 
 ```bash
-npm install react react-dom styled-components
+npm install && npm install --no-save react react-dom styled-components
 npm run dev
 ```
